@@ -38,4 +38,7 @@
 * Ejercicio4
 > Representar un dominio para los número enteros del 10 al 200; excepto los pares de 50 al 60.
 * Ejercicio5
-> Se necesita representar un dominio de datos de tipo cadena, que permita representar solo las letras minúsculas y las letras mayúsculas: A,B,D,E,F. El número de caracteres posibles es 20; se acepta caracteres en blanco.
+> Se necesita representar un dominio de datos de tipo cadena, que permita representar solo las letras minúsculas y las letras mayúsculas: A,B,D,E,F. El número de caracteres posibles es 20; se acepta caracteres en blanco. 
+
+
+**éxitos en el desarrollo de la actividad**
